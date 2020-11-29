@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "orderId":"Xyz1235",
+        "coustmerName":"Ravi",
+        "contactNumber":"8867212853",
+        "delivaryAddress":"#43 NR colony,basavanagui,bengalore",
+        "pinCode":"560004",
+        "status":"recieve",
+        "details":{
+          "item_Name":"pizza-mini",
+          "noOfitemsOrdered":"5",
+          "price":"100",
+          "totalPrice":"500",
+          "dateOfOrdered":"28/11/2020 2:40 PM"
+        }
+      },
+
+   {
+        "id":2,
+        "orderId":"Xabc123",
+        "coustmerName":"shasthri",
+        "contactNumber":"8867212854",
+        "delivaryAddress":"#43 hebbal,yelahanka,bengalore",
+        "pinCode":"560005",
+        "status":"recieve",
+        "details":{
+        "item_Name":"pizza-lg",
+        "noOfitemsOrdered":"3",
+        "price":"150",
+        "totalPrice":"450",
+        "dateOfOrdered":"28/11/2020 3:40 PM"
+        }
+   }
+
+  ]
